@@ -19,5 +19,6 @@ public class Main {
         String reversestring = StringUtils.reverse(userString);
         System.out.println("input is reversed: "+reversestring);
         System.out.println("hello");
+        System.out.println("hello");
     }
 }
